@@ -1,0 +1,13 @@
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\ATM\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\ATM\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
