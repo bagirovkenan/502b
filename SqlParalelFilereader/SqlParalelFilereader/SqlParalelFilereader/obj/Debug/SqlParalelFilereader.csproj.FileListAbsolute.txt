@@ -1,0 +1,13 @@
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.exe.config
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.pdb
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.csprojResolveAssemblyReference.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.csproj.CoreCompileInputs.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.exe.config
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.exe
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.exe
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\bin\Debug\SqlParalelFilereader.pdb
+C:\Users\bagirov\Desktop\P504\Sinifde\C#\Sinif Tapsiriq\SqlParalelFilereader\SqlParalelFilereader\SqlParalelFilereader\obj\Debug\SqlParalelFilereader.csprojResolveAssemblyReference.cache
