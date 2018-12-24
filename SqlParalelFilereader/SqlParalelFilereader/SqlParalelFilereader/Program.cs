@@ -45,6 +45,7 @@ namespace SqlParalelFilereader
             return list;
         }
     }
+    //=================================================================
 
     static class write
     {
@@ -54,74 +55,122 @@ namespace SqlParalelFilereader
         {
             Task task2 = Task.Run(() =>
             {
-
-                foreach (var i in d)
+                
+                    for (var i = 0; i < d.Count; )
                 {
+                    
+
+                    
+                  //  var c = d[i];
                     lock (achar)
                     {
-                        using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                        if (d.Count == 0)
                         {
+                            Console.WriteLine("Elave edecek item qalmadi");
+                        }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
 
-                            StringBuilder sb = new StringBuilder();
-                            connect.Open();
 
-                            sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + i + "');");
-                            SqlCommand cam = new SqlCommand(sb.ToString(), connect);
-                            var sdr = cam.ExecuteNonQuery();
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
+
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+                                if (sdr > 0)
+                                {
+                                    d.Remove(d[i]);
+                                    // Console.WriteLine(d[i]);
+                                    //d.Remove(d[i]);
+                                    Console.WriteLine(d.Count);
+                                }
+
+
+
+
+                            }
 
                         }
 
                     }
-
+                   
                 }
+
+               
             });
             //=================================================================
 
             Task task3 = Task.Run(() =>
             {
 
-                foreach (var i in d)
+                for (var i = 0; i < d.Count;)
                 {
                     lock (achar)
                     {
-                        using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                        if (d.Count == 0)
                         {
-
-                            StringBuilder sb = new StringBuilder();
-                            connect.Open();
-
-                            sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + i + "');");
-                            SqlCommand cam = new SqlCommand(sb.ToString(), connect);
-                            var sdr = cam.ExecuteNonQuery();
-
+                            Console.WriteLine("Elave edecek item qalmadi");
                         }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
 
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
+
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+
+                                if (sdr > 0)
+                                {
+                                    d.Remove(d[i]);
+                                }
+
+                            }
+                        }
 
                     }
 
                 }
             });
 
-            //=================================================================
+            //   =================================================================
 
             Task task4 = Task.Run(() =>
             {
 
-                foreach (var i in d)
+                for (var i = 0; i < d.Count;)
                 {
                     lock (achar)
                     {
-                        using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                        if (d.Count == 0)
                         {
+                            Console.WriteLine("Elave edecek item qalmadi");
+                        }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
 
-                            StringBuilder sb = new StringBuilder();
-                            connect.Open();
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
 
-                            sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + i + "');");
-                            SqlCommand cam = new SqlCommand(sb.ToString(), connect);
-                            var sdr = cam.ExecuteNonQuery();
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+                                if (sdr > 0)
+                                {
+                                    d.Remove(d[i]);
+                                }
 
 
+                            }
 
                         }
 
@@ -130,8 +179,122 @@ namespace SqlParalelFilereader
                 }
 
             });
-            //=================================================================
-            Task.WaitAll(task2, task3, task4);
+
+            Task task5 = Task.Run(() =>
+            {
+
+                for (var i = 0; i < d.Count;)
+                {
+                    lock (achar)
+                    {
+                        if (d.Count == 0)
+                        {
+                            Console.WriteLine("Elave edecek item qalmadi");
+                        }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
+
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
+
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+                                if (sdr > 0)
+                                {
+                                    d.Remove(d[i]);
+                                }
+
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            });
+
+            Task task6 = Task.Run(() =>
+            {
+
+                for (var i = 0; i < d.Count;)
+                {
+                    lock (achar)
+                    {
+                        if (d.Count == 0)
+                        {
+                            Console.WriteLine("Elave edecek item qalmadi");
+                        }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
+
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
+
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+                                if (sdr > 0)
+                                {
+                                    d.Remove(d[i]);
+                                }
+
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            });
+
+            Task task7 = Task.Run(() =>
+            {
+
+                for (var i = 0; i < d.Count;)
+                {
+                    lock (achar)
+                    {
+                        if (d.Count == 0)
+                        {
+                            Console.WriteLine("Elave edecek item qalmadi");
+                        }
+                        else
+                        {
+                            using (SqlConnection connect = new SqlConnection(@"Data Source=KENAN\SQLEXPRESS;Initial Catalog=Item;Integrated Security=True"))
+                            {
+
+                                StringBuilder sb = new StringBuilder();
+                                connect.Open();
+
+                                sb.Append("Insert into [Item].[dbo].[itm] (Item) values('" + d[i] + "');");
+                                SqlCommand cam = new SqlCommand(sb.ToString(), connect);
+                                var sdr = cam.ExecuteNonQuery();
+                                if (sdr > 0) //??? 
+                                {
+                                    d.Remove(d[i]);
+                                }
+
+
+                            }
+
+                        }
+
+                    }
+
+                }
+
+            });
+            // =================================================================
+            Task.WaitAll(task2, task3, task4, task5, task6, task7);
         }
     }
 
