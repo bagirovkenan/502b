@@ -1,0 +1,823 @@
+.sosyalsebekeClass {
+    /* height: 40px; */
+    border: 1px solid whitesmoke;
+}
+
+.logoClasss {
+    margin-left: 150px;
+    /* height: 80px; */
+}
+
+#contactId i {
+    color: #00bcd4;
+    height: 11px;
+    margin-top: 10px;
+}
+
+.textcm9 {
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+#contactId {
+    margin-left: 90px;
+    display: flex;
+    margin-bottom: 7px;
+    margin-top: 5px;
+}
+
+.colmd {
+    margin-left: 30px;
+    color: #484848;
+}
+
+#sosyalsebekelogoId {
+    display: flex;
+    flex-direction: row;
+    margin-right: 90px;
+    margin-top:10px
+}
+
+#sosyalsebekelogoId i {
+    margin-left: 20px;
+    color: #c8c8c8;
+    margin-bottom: 7px;
+    margin-top: 5px;
+}
+
+#a:hover {
+    color: #00bcd4;
+    cursor: pointer;
+}
+
+
+/* logo ve sebet */
+
+/* #sebetId{
+    /* background-color: red; */
+    /* margin-top: -70px; */
+
+
+/* #logoId {
+    /* width: 100%; */
+    /* border: solid 1px;
+    border: 1px solid whitesmoke; */
+    /* height: 120px; */
+    /* background-color: green; */
+/* } */ 
+
+.logosekilsebetClass {
+     margin-left: 100px;
+    margin-top: 40px; 
+    margin-bottom: 30px;
+    display: flex;
+    /* background-color: blue; */
+}
+#sebetaxtarisId:hover {
+    color: #00bcd4;
+}
+
+.logosekilsebetClass>div {
+    margin-left: 40px;
+    color: #c8c8c8;
+}
+
+
+
+/* menyu nav */
+#menyunavId {
+    width: 100% !important;
+    /* height: auto !important; */
+    background-color: #00bcd4 !important;
+    /* position: fixed !important;
+    z-index: 565; */
+    border: none !important;
+   
+    
+}
+
+#navbarheader{
+    margin-left: 150px;
+    /* height: 20px !important; */
+}
+
+#navcontainerid a{
+    font-size: 13px !important;
+    color: #ffffff !important;
+    line-height: 20px !important;
+    margin-left: 30px !important;
+    /* border: solid 1px #00bcd4 !important; */
+}
+#dropdownId a{
+    color: #2b2929 !important;
+}
+
+#li-home-ID a{
+    background-color: #00bcd4!important;
+}
+
+#navcontainerid a:hover{
+    background-color: #0eaabb;
+    border-bottom: #fff solid 1px;
+}
+
+#dropdownId a:hover{
+    
+    background-color:#c8c8c8;
+}
+#dropdownId li:hover{
+    border-left: #2b2929 1px solid;
+   
+}
+
+
+
+
+/* menyu nav son */
+
+/* about our project */
+
+
+    
+
+
+/*  about our project son */
+
+
+
+
+
+.about-imgdiv img{
+    width: 100%;
+    z-index: 11;
+}
+.about-imgdiv {
+ 
+ position: relative;
+ 
+}
+#our-projec-span-id{
+    position: absolute;
+    margin-top:-500px;
+    z-index: 12;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffffff;
+    margin-left:35%;
+}
+
+#power-progres-span-id{
+    position: absolute;
+    margin-top:-445px;
+    z-index: 12;
+    margin-left:42%;
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #0eaabb;
+}
+
+
+
+
+
+/* progres bar */
+#progresbartext-esasdiv-id{
+    margin-top: 100px;
+    margin-left: -30px;
+    /* border: 1px solid black; */
+    /* background-color: red; */
+}
+
+.progresbarclm6{
+    margin-left:10px;
+}
+
+#progresbar-popular-text{
+   font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+   font-size: 30px;
+   line-height: 46px; 
+   font-weight: 700;
+   margin-left: 85px;
+   color: #c8c8c8;
+   color: #2b2929;
+}
+#progresbar-etiam-text{
+   font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+   font-size: 14px;
+   line-height: 20px;
+   margin-left: 85px;
+   margin-top:40px;
+   color: #00bcd4;
+}
+#progresbar-loremipsum-text{
+   font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+   font-size: 14px;
+   line-height: 20px;
+   margin-left: 85px;
+   color: #484848;
+   margin-top:20px ;
+}
+
+/* progres bar prg */
+
+#progresbar-prgbarlar-esas-id{
+    margin-top: 60px ;
+}
+.prgbar{
+        margin-top: 5px;
+}
+
+#progresbar-1ci-prgbar-div-id{
+   margin-top:60px;
+}
+
+.prgbar-text-div-class{
+   width: 455px;
+   height: 30px;
+}
+
+.prgbarlar-text{
+   font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+   font-size: 14px;
+   line-height: 20px;
+   font-weight: 500;
+   
+}
+
+/* progres bar prg son */
+
+/* #progresbartext-esasdiv-id h1{
+    margin-top: 30px;
+}
+ */
+
+ .progresnoqte{
+     width: 20px;
+     height: 20px;
+     border-radius: 20px;
+     background-color: #f23d795e;
+     position: absolute;
+     z-index: 2255;
+     margin-top:-10px;
+ }
+
+ .progresbarnoqte2{
+   width: 10px;
+   height: 10px;
+   border-radius: 10px;
+   background-color: #f23d7a;
+   position: absolute;
+   z-index: 2256;
+   margin-top:5px;
+   margin-left:5px;
+ }
+
+/* brogres bar son */
+
+
+
+/* 4 lu slider */
+* {
+    box-sizing: border-box;
+  }
+  .slider {
+
+      width:95%;
+      margin: 100px auto;
+      height: 250px;
+  }
+
+  .slick-slide {
+    margin: 0px 0px;
+   
+  }
+
+  .slick-slide img {
+    width: 100%;
+    height: 250px;
+  }
+
+  .slick-prev:before,
+  .slick-next:before {
+   color: black;
+    /* margin-top:200px !important; */
+    /* background-color: black; */
+     /* position: absolute !important;
+    z-index: 566 !important;  */
+}
+.slick-prev,
+  .slick-next{
+    background-color: black !important;
+    
+  }
+
+
+  .slick-slide {
+    transition: all ease-in-out .3s;
+    opacity: .2;
+  }
+  
+  .slick-active {
+    opacity: 1;
+  }
+
+  .slick-current {
+    opacity: 1;
+  }
+
+  /* digital plan */
+
+  #Latest-Projects-container-div-id{
+      margin-top: 90px;
+     
+  }
+
+  .latest-text-divler{
+      margin-top: 30px;
+  }
+
+  .digitalplan-text-class{
+      margin-top: 20px;
+  }
+
+  .digital-plan-span{
+    font-size:16px; 
+    font-weight:520;
+    line-height: 20px;
+    font-style: normal;
+    color: #00bcd4;
+    cursor: pointer;
+  }
+
+  /* digital plan son */
+
+  /* latest */
+
+  #work-popular-text{
+    font-size: 26px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 20px;
+    font-weight: 500;
+    font-style: normal;
+    color: #2b2929;
+  }
+
+  #lorem-ipsum-text{
+      font-size: 15px;
+      color: #484848;
+      height: 0px;
+  }
+
+  #latest-loremipsum-boyuktext{
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    height: 0px;
+  }
+
+  /* latest son */
+
+  /* <!-- team members --> */ 
+
+
+#team-members-esas-div-Id{
+    margin-top: 80px;
+}
+
+#team-text-div-id{
+
+    text-align: center;
+}
+
+#team-text-span-Id{
+    font-family: 'Roboto', 'Arial', Helvetica, 'Nimbus Sans L',' sans-serif';
+    font-size: 28px;
+    font-weight: 500;
+    color: #212121;
+    }
+
+    #team-image-esas-div {
+        /* border: solid 1px black; */
+        margin-top: 80px;
+    }
+
+    #team-image-div-Id img{
+        width:288px;
+        height:260px;
+        z-index: 2;
+
+    }
+    /* #team-image-h-div-Id{
+        width: 100%;
+        position: absolute;
+        bottom: 0px;
+        left: 10px;
+        z-index: 5;
+    
+    }
+    #team-image-h-div-Id h4{
+        font-family:  'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+   
+    }
+    #team-image-h-div-Id h5{
+        font-family:  'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+        font-size: 12px;  
+        font-weight: 500;
+        margin-top: -10px;
+    }
+    
+    */
+
+    #team-members-esas-div-Id{
+        width: 100% !important;
+    }
+    #team-image-div-Id{
+        border: solid 1px #fff;
+        margin-left: 40px;
+        box-shadow:1px 5px 5px 1px #626262;
+
+    }
+    #team-image-boyuytext-div-Id{
+        width: 290x;
+        height: 140px;
+        
+        font-size: 13px;
+        background-color: #fff;
+        padding-top: 20px;
+        text-align: justify;
+    }
+
+    #team-image-icon-div {
+        width: 289px;
+        height: 40px;
+        background-color: #fff;
+    }
+
+    #team-image-icon-div i{
+        font-size: 16px;
+        margin-left: 10px;
+    }
+
+    #team-image-icon-div i:hover{
+        color: #00bcd4;
+        cursor: pointer;
+    }
+
+    /* #team-image-boyuytext-div-Id span{
+    margin: 0 auto;
+
+    } */
+/* <!-- team members son --> */
+
+/* <!-- goy slider --> */
+#myId{
+    width: 100vw;
+    height: 60vh;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    margin-top: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.btn{
+    height: 60px;
+    width: 100%;
+    z-index: 51;
+    background:#00bcd4;
+}
+
+.btn span{
+    
+    width: 50%;
+    float: left;
+    padding: 15px;
+    background:#00bcd4;
+    cursor: pointer;
+}
+
+.btn span:last-child{
+    float: right;
+
+    }
+
+#slider{
+  
+    height: 100%;
+     position: absolute; 
+}
+
+.item-slider{
+    width: 100%;
+    height: 600px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#goyslider-esas-div{
+    width: 100%;
+    height: 60vh;
+    background-color: #00bcd4;
+}
+
+.btn span:hover{
+    background-color: #0eaabb; 
+}
+
+.btn i{
+    color: #fff;
+}
+
+#goyslider-img-div{
+width: 100px;
+height: 100px;
+border-radius: 100%;
+/* border: solid 1px black; */
+margin-left: 80px;
+margin-top: 120px;
+
+}
+
+
+
+/* <!-- goy slider son --> */
+
+/* reqem */
+.reqem-esas-div-Class{
+   
+    width: 100%;
+    height: 326px;
+    /* border:solid 1px red; */
+   display: flex;
+   justify-content: space-around;
+   background-color: #212121;
+}
+
+.reqem-div{
+    width: 200px;
+    height: 100px;
+    /* border: solid 1px red; */
+    margin-top: 7%;
+    /* padding-top: 40px; */
+    /* pad */
+    
+}
+
+.reqem{
+    margin-left: 35%;
+    margin-top: 20%;
+    color: #0eaabb;
+    font-size: 60px;
+    line-height: 68px;
+    /* font-weight: 300; */
+}
+.soz{
+    
+    margin-left: 43%;
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+#reqem3,#reqem5{
+    margin-left: 30%;
+}
+
+#reqem2,#reqem4{
+    margin-left: 43%;
+}
+/* reqem son */
+
+/* flight  */
+
+#flight-clmd-12-div{
+    position: relative;
+    height: 600px;
+}
+
+#flight-clmd-12-div img{
+    position: absolute;
+    z-index: 5;
+    height: 600px;
+}
+
+#flight-span-id{
+    font-size: 60px;
+    line-height: 80px;
+    font-weight: 50;
+    /* font-style: normal; */
+    color: #00bcd4;
+    position: absolute;
+    top: 230px;
+    left: 30%;
+    z-index: 56;
+}
+
+/* flight son */
+
+/*laest  */
+
+/*latest son  */
+
+
+/* logolar */
+
+/* logolar son */
+
+/* foooter */
+
+footer{
+    background-color: #212121;
+    color:#fff;
+
+}
+#contact-clmd3-div-id{
+    margin-left:100px;
+}
+
+#about-clmd3-div-id{
+    margin-left: -50px;
+}
+#categories-clmd3-div-id{
+    margin-left: -50px;
+}
+
+#broklin-clmd12-id{
+    margin-top: 30px;
+}
+
+.contact-h3{
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+
+
+
+.broklin-clmd12-class{
+  margin-top: 15px;
+  color: #626262;
+  font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+  font-size: 15px ;
+  line-height: 22px;
+  font-weight: 500;
+}
+.broklin-h6-class{
+    margin-top:-1px;
+    margin-left: 30px;
+
+  }
+  .broklin-icon{
+    margin-top:-2px;
+  }
+
+  #about-clmd3-div-id h6{
+    width: 100px;
+    color: #626262;
+   
+}
+#about-clmd3-div-id a{
+    text-decoration:none;
+}
+
+#categories-clmd3-div-id a{
+    text-decoration:none;
+}
+
+#about-clmd3-div-id h6:hover{
+    color:#fff;
+   
+}
+
+  .about-hover{
+      width: 100px;
+      color: #626262;
+    
+  }
+
+  .about-hover:hover{
+      color:#fff;
+     
+  }
+  
+
+  .contactUs-input{
+      background-color: #212121;
+      width: 210px;
+      height: 40px;
+      margin-top:30px;
+      border: none;
+      border-bottom: #2b2939 2px solid;
+      border-top:hidden !important;
+     }
+
+     #sendmessage-div-id{
+         margin-top:30px;
+        
+     }
+ #sendmessage-button-id{
+     width: 150px;
+     height: 40px;
+     background-color: #2b2929;
+     border: none;
+     /* margin-left:; */
+     color: #626262;
+ }
+
+ #sendmessage-button-id:hover{
+     background-color: #0eaabb;
+     color: #ffffff;
+ }
+ #sendmessage-button-id span{
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 14px;
+    line-height: 42px;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+ }
+
+ #footeruc{
+     margin-top: 50px;
+     height: 50px;
+     border-top: #626262 solid 1px;
+ }
+ .footer-icon-div{
+     margin-left: 50px;
+ }
+ 
+
+#footer-sosyalsebekediv-id i{
+    margin-left: 10px;
+    margin-top: 20px;
+    color: #595959;
+    cursor:pointer;
+}
+
+#footer-sosyalsebekediv-id i:hover{
+    color: #00bcd4;
+}
+
+#footer-sosyalsebeke-div-id{
+    margin-top:35px;
+    margin-left:50px;
+    font-family: 'Roboto', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    color: #595959
+
+}
+
+#footer-logodiv-id{
+    text-align: center
+}
+
+#footer-logodiv-id img{
+
+    width: 190px;
+    height: 40px;
+    /* margin-left:300px; */
+}
+
+.nav-id-class{
+    margin-top: 30px;
+    /* margin-left: 250px; */
+}
+
+#span-home{
+    color: #fafafa;
+}
+
+.nav-id-class span{
+    font-size: 12px;
+    color:#595959;
+    margin-left: 20px;
+}
+
+.nav-id-class span:hover{
+    color:#fafafa;
+}
+
+.nav-id-class a:hover{
+    text-decoration: none;
+}
+
+/* footer son */
+
+
