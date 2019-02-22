@@ -1,0 +1,56 @@
+#contactEnd .container-fluid .row .col-md-12 {
+  padding: 0px; }
+  #contactEnd .container-fluid .row .col-md-12 .socialDiv {
+    width: 100%;
+    height: 100%;
+    background-image: url("Img/backgroundjpg.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; }
+    #contactEnd .container-fluid .row .col-md-12 .socialDiv h1 {
+      color: white;
+      padding-top: 2%;
+      padding-bottom: 20px;
+      font-size: 3em;
+      font-family: 'Montserrat', sans-serif;
+      text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15); }
+    #contactEnd .container-fluid .row .col-md-12 .socialDiv p {
+      color: white;
+      padding-top: 2%;
+      font-family: 'Montserrat', sans-serif; }
+      #contactEnd .container-fluid .row .col-md-12 .socialDiv p a {
+        color: white;
+        text-decoration: none;
+        transition: 0.2s linear; }
+        #contactEnd .container-fluid .row .col-md-12 .socialDiv p a:hover {
+          color: #d70f64; }
+    #contactEnd .container-fluid .row .col-md-12 .socialDiv hr {
+      width: 10%;
+      border-bottom: 4px solid white;
+      padding-top: 10%;
+      display: inline-block; }
+    #contactEnd .container-fluid .row .col-md-12 .socialDiv .row .col-md-12 {
+      text-align: center; }
+      #contactEnd .container-fluid .row .col-md-12 .socialDiv .row .col-md-12 .iconBox {
+        width: auto;
+        height: 50px;
+        border: 1px solid white;
+        display: inline-block;
+        text-align: center;
+        margin: 5%;
+        padding: 1%;
+        border-radius: 8px;
+        transition: 0.2s linear;
+        text-align: center;
+        cursor: pointer; }
+        #contactEnd .container-fluid .row .col-md-12 .socialDiv .row .col-md-12 .iconBox:hover {
+          border-color: #d70f64;
+          background-color: #d70f64;
+          opacity: 6; }
+        #contactEnd .container-fluid .row .col-md-12 .socialDiv .row .col-md-12 .iconBox a {
+          text-decoration: none;
+          color: white;
+          font-family: 'Montserrat', sans-serif;
+          display: block; }
+
+/*# sourceMappingURL=contactEnd.css.map */

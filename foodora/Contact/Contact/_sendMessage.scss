@@ -1,0 +1,97 @@
+#sendMessage{
+    .container-fluid{
+        .row{
+            .col-md-12{
+                
+                padding: 0px;
+                .contactSendMesagge{
+                    
+                    padding-top: 60px;
+                    padding-bottom: 20px;
+                    width: 100%;
+                    height: auto;
+                   background-image: url("Img/organic.jpg");
+                      background-position: center;
+                      background-size: cover;
+                    .headerDiv{
+                        width: 100%;
+                        h1{
+                            color: white;
+                            font-family: 'Montserrat', sans-serif;
+                            font-size: 30px;
+                            display: inline-block;
+                            padding-top: 20px;
+                            padding-bottom: 20px;
+                           border-bottom: 2px solid white;
+                           margin-left: 26.5%;
+                           
+                        }
+                    }
+                    .row{
+                        margin: 0px;
+                        .col-md-6{
+                           
+                            form{
+                                #FirstName{
+                                    display: block;
+                                    width: 100%;
+                                    margin-top: 5%;
+                                    font-size: 24px;
+                                    background-color: transparent;
+                                    color: white;
+                                    font-family: 'Montserrat', sans-serif;
+                                    outline: none;
+                                    border: none;
+                                    border-bottom: 2px solidwhite;
+                                    padding-top: 10px;
+                                    padding-bottom: 10px;
+                                }
+                                #Email{
+                                    display: block;
+                                    width: 100%;
+                                    margin-top: 5%;
+                                    font-size: 24px;
+                                    background-color: transparent;
+                                    color: white;
+                                    font-family: 'Montserrat', sans-serif;
+                                    outline: none;
+                                    border: none;
+                                    border-bottom: 2px solid white; 
+                                    padding-top: 10px;
+                                    padding-bottom: 10px;
+                                }
+                                #Mesagge{
+                                    display: block;
+                                    width: 100%;
+                                    margin-top: 5%;
+                                    font-size: 24px;
+                                    background-color: transparent;
+                                    color: white;
+                                    font-family: 'Montserrat', sans-serif;
+                                    outline: none;
+                                    border: none;
+                                    border-bottom: 2px solid white;;
+                                    padding-top: 10px;
+                                    padding-bottom: 10px;
+                                }
+                                .btn{
+                                    margin-top: 5%;
+                                    background-color: none;
+                                    border-color: rgb(206, 202, 202);
+                                    color: white;
+                                    font-family: 'Montserrat', sans-serif;
+
+                                    &:hover{
+                                        background-color: #d70f64;
+                                        opacity: 6;
+                                    }
+                                }
+                            }
+                    
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

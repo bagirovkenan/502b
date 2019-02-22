@@ -1,0 +1,93 @@
+#contactAddress {
+
+    .container-fluid {
+        .row {
+            .col-md-12 {
+                padding: 0px;
+
+                .contactInfo {
+                    width: 100%;
+                    height: auto;
+                    background-attachment: fixed;
+
+                    padding-bottom: 60px;
+                    padding-top: 30px;
+                    background-image: linear-gradient(rgba(0, 0, 0, 0.6),
+                        rgba(0, 0, 0, 0.6)), url("Img/contact-us.jpg");
+                    background-position: center;
+                    background-size: cover;
+
+                    .headerDiv {
+                        h1 {
+                            color: white;
+                            border-bottom: 1px solid white;
+                            ;
+                            padding-bottom: 10px;
+                            padding-top: 20px;
+                            margin-left: 20px;
+                            display: inline-block;
+                            font-family: 'Montserrat', sans-serif;
+                        }
+                    }
+
+                    .row {
+                        padding-top: 40px;
+
+                        .col-md-4 {
+                            .divCol-md-4 {
+                                padding-left: 40px;
+
+                                i {
+                                    font-size: 2em;
+                                    color: white;
+                                    padding-bottom: 20px;
+                                    transition: 2s;
+                                }
+
+                                // i:hover {
+
+                                //     cursor: pointer;
+                                //     color: #d70f64;
+
+                                // }
+
+                                h5 {
+                                    color: white;
+                                    transition: 2s;
+
+                                }
+
+                                // h5:hover {
+                                //     cursor: pointer;
+                                //     color: #d70f64;
+                                // }
+
+                                p {
+                                    color: white;
+                                    font-size: 16px;
+                                }
+
+                                // p:hover {
+                                //     cursor: pointer;
+                                //     color: #d70f64;
+                                // }
+
+                                a {
+                                    color: white;
+                                    text-decoration: none;
+                                    transition: 2s;
+                                }
+
+                                // a:hover {
+                                //     cursor: pointer;
+                                //     color: #d70f64;
+                                // }
+                            }
+                        }
+
+                    }
+                }
+            }
+        }
+    }
+}

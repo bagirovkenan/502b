@@ -1,0 +1,272 @@
+.footerNavContainer{
+    background-color: #fff;
+}
+.footerNavClmd-12{
+    background-color: #fff !important;
+    color:#d70f64 !important;
+}
+
+.divNav .navabarNav{
+    margin-left: 45% !important;
+}
+
+.navbarUlDiv ul li a{
+    color:#d70f64 !important;
+    margin-left: 20px;
+    
+}
+
+.footerNavContainer .footernavLogo img{
+    margin-top: 6%;
+    /* margin-left:;/ */
+}
+
+.sliderSection .slider .row .sliderContainer .crsInner .caruselItem img {
+   width: 100% !important;
+   height: 100% !important;
+}
+
+
+/* //////////////////////////////////////////////////////////////////////// */
+
+.seherimgParentDiv{
+    
+    margin-top:2%;
+   text-align: center;
+
+}
+
+
+/* ///////////////////////////////////////////////////////////////// */
+
+/* .margin: 0 0 20px;
+text-transform: uppercase;
+font-family: "museo-sans", sans-serif;
+font-weight: 400;
+letter-spacing: 1px;
+color: #d70f64; */
+.aboutUs{
+
+    margin-top:8%;
+}
+.aboutUs .container .row {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle
+}
+
+.aboutUs .container .row .aboutUsTittleDiv .abutAsTittleSpan{
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #d70f64; 
+}
+
+.aboutUs .container .row .aboutUsTextDiv p{
+    margin: 0 0 35px;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+}
+
+/* .aboutUs .container .row .aboutUsTextDiv {
+    /* margin-left:16%; */
+ 
+
+.aboutUs .container .row .aboutUsBtnDiv .aboutUsBtnButton{
+    width: 33%;
+    height: 48px;
+    color: #fff !important;
+    background-color: #d70f64 !important;
+    font-weight: 500 !important;
+}
+
+/* .order{
+
+} */
+
+.carrers{
+ 
+    min-height: 500px; 
+    /* width: 100%;; 
+    display: table; */
+    background-image: url("https://www.foodora.com/wp-content/uploads/2015/07/4000x2000_careers_parallax_2.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+}
+.carrers .container{
+   
+    /* margin-left:25%; */
+    padding-top:10%;
+}
+.carrers .container .row .carrieersUsTextDiv p{
+    margin: 0 0 35px;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+    color: #fff;
+    
+}
+
+.carierstBtnButton{
+    background-color:#d70f64;
+    color: #fff;
+    font-weight: 500;
+    width: 35%
+}
+
+.pressContainerDiv {
+    min-height: 500px;   
+    display: table;
+    background-image: url('presbcg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    /* background-position: center;  */
+    background-size: cover;
+}
+.pressContainerDiv .presRow .pressTittleDiv{
+    text-align: center
+}
+
+.pressContainerDiv .presRow .pressTittleDiv .pressTitleH2{
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #d70f64;
+}
+.pressContainerDiv .presRow .pressTextDiv .pressTittleTextP{
+    margin: 0 0 35px;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+    color: #fff;
+   
+}
+.pressContainerDiv .presRow .cariersBtnDiv .cariersBtnButton{
+    color: #fff;
+    background-color: #d70f64;
+    font-weight: 500;
+    font-family: "museo-sans", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 20%
+}
+
+
+.contactcontainerDiv{
+    min-height: 400px;   
+    display: table;
+    text-align: center;
+    width: 100%;
+    background-color: #d70f64;
+    
+}
+.contacTittle{
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font-family: "museo-sans", sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: #fff;
+
+}
+
+.contactTextP{
+    margin: 0 0 35px;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 300;
+    color: #fff;
+
+}
+.contactBtnButton{
+    width: 33%;
+    min-width: 160px;
+    font-size: 16px;
+    color: #d70f64;
+    background-color: #fff;
+    font-weight: 500;
+    border: inherit;
+    height: 48px;
+    font-family: "museo-sans", sans-serif;
+    /* text-transform: uppercase; */
+}
+
+
+.footersvgDiv{
+    text-align: center;
+
+}
+
+.footerSvgIcons{
+    text-align: right
+}
+
+.footerSvgIcons i{
+    font-size: 26px;
+    margin-left: 5%;
+    color: #d70f64;
+    transition: 1s;
+}
+.footerSvgIcons i:hover{
+    font-size: 50px;
+    cursor: pointer;
+}
+/* media cuery */
+
+@media screen and (max-width: 600px) {
+    .divNav .navabarNav{
+        margin-left: -5% !important;
+       
+    }
+    .navbarUlDiv ul li a{
+        color:#d70f64 !important;
+       
+        
+    }
+
+    .menyuBtn {
+        margin-top: -13%;
+    }
+    
+
+    .seherimgParentDiv{
+        margin-top:5%;
+   
+    }
+    .aboutUs .container .row .aboutUsTextDiv {
+        margin-left:0%;
+    }
+
+    .carrers .container{
+        margin-left:0%;
+        padding-top:15%;
+    }
+
+    .pressContainerDiv .presRow .cariersBtnDiv .cariersBtnButton{
+    color: #fff;
+    background-color: #d70f64;
+    font-weight: 500;
+    font-family: "museo-sans", sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    width: auto;
+    }
+    .footersvgDiv{
+        text-align: center
+    }
+
+    .footerSvgIcons{
+        text-align: center;
+        font-size:33px
+    }
+}
