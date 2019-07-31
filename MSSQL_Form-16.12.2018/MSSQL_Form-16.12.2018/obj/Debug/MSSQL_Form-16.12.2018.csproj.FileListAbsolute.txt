@@ -1,0 +1,20 @@
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.exe.config
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.pdb
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csprojResolveAssemblyReference.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form_16._12._2018.Form1.resources
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form_16._12._2018.Properties.Resources.resources
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csproj.GenerateResource.Cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csproj.CoreCompileInputs.cache
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.exe
+C:\Users\kananmb\Desktop\p504\C#\Sinif\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.pdb
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.exe.config
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.exe
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\bin\Debug\MSSQL_Form-16.12.2018.pdb
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csprojAssemblyReference.cache
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form_16._12._2018.Form1.resources
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form_16._12._2018.Properties.Resources.resources
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csproj.GenerateResource.cache
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.csproj.CoreCompileInputs.cache
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.exe
+D:\ekran\Ders 2018-2019\P504\C#\Sinif\C#\Sinif Tapsiriq\MSSQL_Form-16.12.2018-20190104T131442Z-001\MSSQL_Form-16.12.2018\MSSQL_Form-16.12.2018\obj\Debug\MSSQL_Form-16.12.2018.pdb
