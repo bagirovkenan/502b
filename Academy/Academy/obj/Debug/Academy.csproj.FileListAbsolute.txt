@@ -1,0 +1,26 @@
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\bagirov\Desktop\P504\Tapsiriqlar\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.exe.config
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.exe
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Academy.pdb
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.csprojAssemblyReference.cache
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.csproj.CoreCompileInputs.cache
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.csproj.CopyComplete
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.exe
+D:\ekran\Ders 2018-2019\P504\C#\Tapsiriq\C#\CursApp\Academy-20181110T211701Z-001\Academy\Academy\obj\Debug\Academy.pdb
